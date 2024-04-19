@@ -1,0 +1,100 @@
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<h1 style="color:red;">Pertussis</h1>
+<h2 style="color:black;">Whooping cough (pertussis) is a highly contagious respiratory tract infection. In many people, it's marked by a severe hacking cough followed by a high-pitched intake of breath that sounds like "whoop".<p>
+<p>
+<img src="https://newsinfo.inquirer.net/files/2024/04/PERTUSSIS-filephoto-04012024-2-1.jpg" height="300px" width= "600px">  <p>
+
+<h2 style="color:blue;">Causes of Pertussis
+<h3>Whooping cough (pertussis) is an infection of the respiratory system caused by Bordetella pertussis bacteria. It mainly affects babies younger than 6 months old who aren't yet fully protected by immunizations, and kids 11 to 18 years old whose immunity has started to fade.<p>
+<img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/6/shutterstock_1057236131.jpg" height="300px" width= "600px"> <p>
+
+<h2 style="color:blue;">Incubation Period of Pertussis<p>
+<p>
+<h3>Typically, the incubation period of pertussis ranges from 3-12 days; it is a 6-week disease divided into catarrhal, paroxysmal, and convalescent stages, each lasting 1-2 weeks.<p>
+<p>
+<p>
+<h2 style="color:blue;">Management for Pertussis<p>
+
+<h3>• Recognition of complications and early referral for supportive care<p>
+• Early antibiotic treatment to reduce transmission.<p>
+• Educating and informing your patient about whooping cough.<p>
+• Preventing transmission by keeping infectious patients home from childcare, school or work.<p>
+• Managing contacts of infectious patients in collaboration with your public health unit.<p>
+
+<img src="https://www.marinhhs.org/sites/default/files/pertussis-vacc-all.jpg" height="400px" width= "500px"> <p>
+
+<h2 style="color:blue;">Stages of Whooping Cough<p>
+<p>
+<h3 style="color:red;">Stage 1: Catarrhal Phase<p>
+<h3>•Coryza<p>
+• Low-grade fever<p>
+• Mild, occasional cough (which gradually becomes more severe)<p>
+•Apnea (in infants)<p>
+<p>
+<p>
+<h3 style="color:red;">Stage 2: Paroxysmal Phase<p>
+<h3>• Paroxysms of numerous, rapid coughs due to difficulty expelling thick mucus from the tracheobronchial tree<p>
+• Long inspiratory effort accompanied by a high-pitched “whoop” at the end of the<p>
+•paroxysms<p>
+• Cyanosis<p>
+• Vomiting Exhaustion<p>
+<p>
+<p>
+<h3 style="color:red;">Stage 3: Convalescent 
+Characterized by:<p>
+<h3> • Gradual recovery<p>
+• Less persistent, paroxysmal coughs that disappear in 2-3 weeks<p>
+<p>
+<p>
+<p>
+<img src="https://www.thesun.co.uk/wp-content/uploads/2024/01/ac-whooping-cough-timeline-graphic.jpg" height="300px" width= "500px"> <p>
+
+
+<h2 style="color:blue;">Diagnostic Procedures for Whooping Cough
+
+      
+<h2 style="color:red;">•Chest radiography<p> 
+<h3>Chest radiography may reveal perihilar infiltrates or edema with variable degrees of atelectasis. Consolidation is indicative of secondary bacterial infection or, rarely, pertussis pneumonia.
+<h2 style="color:red;">•Cultures
+<h3>The results of blood culture are uniformly negative because B pertussis grows solely in the respiratory epithelium; recovery rates are highest during the catarrhal or early paroxysmal phase and are low after the fourth week of illness. <p>
+<h2 style="color:red;">•PCR Assay and ELISA
+<h3>PCR assays and antigen detection are increasingly used to assist in diagnosing pertussis; advantages include greater sensitivity, more rapidly available results, and use later in the disease course; although this or a positive culture is the case definition for reporting pertussis to the CDC or the WHO, some are now recommending confirmation with ELISA before declaring an epidemic.
+<h2 style="color:red;">•Throat Culture
+<h3>Nose or throat culture. A simple swab of the area where your nose and throat meet can be tested for the bacteria that causes whooping cough.
+<p>
+<p>
+
+<img src="https://images.drlogy.com/assets/uploads/img/admin/health_blog/whooping-cough-diagnosis.webp" height="300px" width= "500px">  <p>
+
+
+
+<p>
+<p>
+<h2 style="color:blue;">REFERENCES:<p>
+<p>
+<p>
+<h3>•Montemayor , Ma. T. (2024, April 1). Pertussis has a treatment and can be prevented. Department of Health. https://doh.gov.ph/press-release/pertussis-has-a-treatment-and-can-be-prevented/
+Pertussis (Whooping Cough) Retrieved from https://www.cdc.gov/pertussis/about/diagnosis-treatment.html
+
+<p>•Mayo Foundation for Medical Education and Research. (n.d.). Whooping cough. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/whooping-cough/symptoms-causes/syc-20378973
+
+<p>•Centers for Disease Control and Prevention. (2022, August 4). Diagnosis and treatment of whooping cough (pertussis). Centers for Disease Control and Prevention. https://www.cdc.gov/pertussis/about/diagnosis-treatment.html
+
+<p>•Mayo Foundation for Medical Education and Research. (n.d.-a). Whooping cough. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/whooping-cough/symptoms-causes/syc-20378973
+
+<p>•Bocka, J. J. (2023, June 14). Pertussis. Practice Essentials, Background, Etiology and Pathophysiology. https://emedicine.medscape.com/article/967268-overview
+
+<p>Management of Whooping Cough (pertussis). NSW Health. (n.d.). https://www.health.nsw.gov.au/Infectious/whoopingcough/Pages/workers-managing-cases.aspx
+
+<p>•Centers for Disease Control and Prevention. (2022b, September 27). Whooping cough (pertussis) vaccines for children. Centers for Disease Control and Prevention. https://www.cdc.gov/vaccines/parents/diseases/pertussis.html#:~:text=There%20are%202%20vaccines%20that,protect%20against%20diphtheria%20and%20tetanus.
+
+<p>•Centers for Disease Control and Prevention. (2022b, August 4). For clinicians: Pertussis treatment. Centers for Disease Control and Prevention.
+ https://www.cdc.gov/pertussis/clinical/treatment.html
+
+<p>•Mayo Foundation for Medical Education and Research. (n.d.-a). Whooping cough. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/whooping-cough/diagnosis-treatment/drc-20378978
